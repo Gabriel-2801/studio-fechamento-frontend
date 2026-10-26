@@ -1,0 +1,21 @@
+{
+  "/login/page": "app/login/page.js",
+  "/(app)/colaboradoras/[id]/page": "app/(app)/colaboradoras/[id]/page.js",
+  "/(app)/colaboradoras/page": "app/(app)/colaboradoras/page.js",
+  "/(app)/comissoes/page": "app/(app)/comissoes/page.js",
+  "/(app)/despesas/[id]/page": "app/(app)/despesas/[id]/page.js",
+  "/(app)/comissoes/[id]/page": "app/(app)/comissoes/[id]/page.js",
+  "/(app)/configuracoes/page": "app/(app)/configuracoes/page.js",
+  "/(app)/lancamentos/novo/page": "app/(app)/lancamentos/novo/page.js",
+  "/(app)/despesas/page": "app/(app)/despesas/page.js",
+  "/(app)/lancamentos/page": "app/(app)/lancamentos/page.js",
+  "/(app)/page": "app/(app)/page.js",
+  "/(app)/lancamentos/[id]/editar/page": "app/(app)/lancamentos/[id]/editar/page.js",
+  "/(app)/procedimentos/[id]/page": "app/(app)/procedimentos/[id]/page.js",
+  "/(app)/lancamentos/[id]/page": "app/(app)/lancamentos/[id]/page.js",
+  "/(app)/procedimentos/page": "app/(app)/procedimentos/page.js",
+  "/(app)/fechamento/mensal/page": "app/(app)/fechamento/mensal/page.js",
+  "/(app)/fechamento/diario/page": "app/(app)/fechamento/diario/page.js",
+  "/(app)/relatorios/page": "app/(app)/relatorios/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}
